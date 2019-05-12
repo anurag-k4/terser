@@ -12,6 +12,7 @@ Terser recommends you use RollupJS to bundle your modules, as that produces smal
 *Beautification* has been undocumented and is *being removed* from terser, we recommend you use [prettier](https://npmjs.com/package/prettier).
 
 [![Build Status](https://travis-ci.org/terser-js/terser.svg?branch=master)](https://travis-ci.org/terser-js/terser)
+[![Known Vulnerabilities](https://snyk.io/test/github/anurag-k4/terser/badge.svg?targetFile=package.json)](https://snyk.io/test/github/anurag-k4/terser?targetFile=package.json)
 
 Find the changelog in [CHANGELOG.md](https://github.com/terser-js/terser/blob/master/CHANGELOG.md)
 
